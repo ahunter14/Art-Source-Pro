@@ -1,0 +1,35 @@
+# Art Source Pro Roadmap
+
+This is the plan for how we’ll grow the marketplace. Contributors can help with any step!
+
+---
+
+## Phase 1 – Marketplace Basics
+- [ ] Artist profiles with portfolio uploads
+- [ ] Designer profiles with project boards
+- [ ] Subscription system (monthly fee for artists & designers)
+- [ ] Artwork upload with image validation
+
+## Phase 2 – AI Recommendations
+- [ ] AI system to suggest artwork for designer projects
+- [ ] "Mock" AI (return example results for testing)
+- [ ] Connect to real AI model
+- [ ] Improve recommendation accuracy over time
+
+## Phase 3 – Visualization
+- [ ] Tool for designers to preview artwork in room mockups
+- [ ] Upload room photos and overlay art
+- [ ] Export final mockups for client presentations
+
+## Phase 4 – Growth Features
+- [ ] Search & filtering (by style, size, medium)
+- [ ] Favorites & mood boards
+- [ ] Payment integration for subscriptions
+- [ ] Community features (reviews, comments)
+
+---
+
+## 🚀 How to Contribute
+- Developers: Pick a feature above and open a GitHub Issue
+- Designers: Suggest UI/UX improvements
+- Artists: Give feedback on what tools would help you most
