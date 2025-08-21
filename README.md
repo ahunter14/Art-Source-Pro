@@ -1,6 +1,3 @@
-# Art-Source-Pro
-Art Sourcing Marketplace for Interior Designers and Artists to Collaborate
-# Art Source Pro
 
 **Art Source Pro** is a marketplace where artists can upload their artwork and interior designers can source unique pieces for their projects. Both artists and designers subscribe monthly to access the platform. Designers can also request AI-powered recommendations tailored to their projects and visualize selected artwork directly in their spaces.
 
