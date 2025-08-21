@@ -1,0 +1,16 @@
+---
+name: "🟢 Good First Issue"
+about: Beginner-friendly task for new contributors
+labels: good first issue
+---
+
+## 🟢 Task
+Brief description of the simple task.
+
+## 📋 Steps
+1. Fork repo
+2. Make the change
+3. Submit PR
+
+## 🎯 Goal
+What this change improves for the project.
